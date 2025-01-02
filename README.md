@@ -11,11 +11,14 @@ The application is containerized using Docker, with FFmpeg integrated for video 
 - Containerized with Docker for cross-platform compatibility.
 - Store video details using Retrofit and Gson for JSON serialization/deserialization.
 - Real-time video upload progress indication.
+  
 **Technologies Used**
+
 ->Backend
 - Spring Boot: Handles video upload API and database operations.
 - MySQL: Stores metadata related to uploaded videos.
 - FFmpeg: Processes video files for streaming (optional).
+  
 ->Android Frontend
 - Kotlin: Primary language for app development.
 - Retrofit: For making HTTP requests to the backend API.
@@ -53,11 +56,17 @@ json
 -Docker Hub Image
 Pull the Docker image for this backend from Docker Hub:
 
-bash
+  bash
 - docker pull madhusudan785/videostreamingap-backend
-Get All Videos
-<img width="899" alt="Screenshot 2025-01-02 203700" src="https://github.com/user-attachments/assets/7503c6f1-e8e3-499c-9654-5f00dea1fc68" />
-<img width="876" alt="Screenshot 2025-01-02 203427" src="https://github.com/user-attachments/assets/5c720343-c16b-4fcf-baa8-be1251215c50" />
+  
+- Get All Videos
+- <img width="899" alt="Screenshot 2025-01-02 203700" src="https://github.com/user-attachments/assets/7503c6f1-e8e3-499c-9654-5f00dea1fc68" />
+
+
+- Post Videos
+- <img width="876" alt="Screenshot 2025-01-02 203427" src="https://github.com/user-attachments/assets/5c720343-c16b-4fcf-baa8-be1251215c50" />
+
+  
 
 
 
