@@ -1,4 +1,5 @@
 **Video Streaming Application**
+
 This repository contains the backend and Frontend implementation of a Video Streaming Application. The backend is built using Spring Boot and frontend uses Kotlin and xml  it includes features like video upload, thumbnail generation, and HLS video streaming.
 In frontend, the list of videos that are available on the server is shown to the users on their screens.
 The application is containerized using Docker, with FFmpeg integrated for video processing tasks such as thumbnail generation and HLS segmentation.
