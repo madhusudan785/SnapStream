@@ -59,7 +59,9 @@ Pull the Docker image for this backend from Docker Hub:
 
   bash
 - docker pull madhusudan785/videostreamingap-backend
-  
+
+  <img width="920" alt="full diagram" src="https://github.com/user-attachments/assets/3338b389-a117-4c25-b132-f972b6212aad" />
+
 - Get All Videos
 - <img width="899" alt="Screenshot 2025-01-02 203700" src="https://github.com/user-attachments/assets/7503c6f1-e8e3-499c-9654-5f00dea1fc68" />
 
@@ -67,7 +69,7 @@ Pull the Docker image for this backend from Docker Hub:
 - Post Videos
 - <img width="876" alt="Screenshot 2025-01-02 203427" src="https://github.com/user-attachments/assets/5c720343-c16b-4fcf-baa8-be1251215c50" />
 
-  
+
 
 
 
